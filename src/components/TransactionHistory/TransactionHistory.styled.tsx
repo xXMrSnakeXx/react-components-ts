@@ -17,7 +17,7 @@ export const Th = styled.th`
   font-weight: 900;
   font-size: 18px;
   padding: 5px 0 5px 0;
-  color: #fff;
+  color: lightblue;
 `;
 export const Td = styled.td`
   border: 1px solid #000;
