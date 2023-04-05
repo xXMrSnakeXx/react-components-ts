@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "@emotion/styled";
 
 export const Table = styled.table`
   color: #000;
@@ -26,7 +26,7 @@ export const Td = styled.td`
   padding: 5px 0 5px 0;
 `;
 export const Tr = styled.tr`
-  :nth-child(even) {
+  :nth-of-type(2n) {
     background-color: #dadbdc;
   }
 `;

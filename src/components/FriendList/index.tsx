@@ -1,2 +1,1 @@
-import FriendList from "./FriendList";
-export { FriendList };
+export { default } from "./FriendList";

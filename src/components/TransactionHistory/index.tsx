@@ -1,3 +1,1 @@
-import TransactionHistory from "./TransactionHistory";
-
-export { TransactionHistory };
+export { default } from "./TransactionHistory";

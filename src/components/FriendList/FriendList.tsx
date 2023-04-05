@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { FriendListItem } from "./FriendListItem";
+import FriendListItem from "./FriendListItem";
 import { List } from "./FriendList.styled";
 
 interface IFriendListProps {
